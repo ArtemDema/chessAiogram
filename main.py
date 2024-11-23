@@ -13,7 +13,7 @@ from aiogram import F, Bot, Dispatcher
 from aiogram.types import Message, CallbackQuery
 from aiogram.filters import Command, CommandStart
 
-TOKEN = "6819362580:AAEDPLXCEuActglTjK-esTlAfy585hgjFyE"
+TOKEN = "ABOBA"
 bot = Bot(TOKEN)
 dp = Dispatcher()
 
